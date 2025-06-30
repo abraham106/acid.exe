@@ -1,0 +1,2 @@
+install libs from file requirement.txt "pip install <lib>"
+Start acid.py
